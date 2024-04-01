@@ -20,3 +20,23 @@ Chart shows the win rate scores by season since 1993 - 1994 to the current one (
 Chart shows every result since Aston Villa came back to Premier League in 2019-2020. The current season might be their one with the highest wins since the last game it´s not being taken (2 - 0 agains Wolverhampton) villa it´s doing a great campaing and there is still 7 games to go.
 
 ![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/seasonResults.png?raw=true)
+
+## Goal stats by season
+Chart shows the amount of goals either scored as received in every season. 2007-2008 Season was the one they scored the most.  
+Season 2015-2016 was the season they conceded the most goals. It was also the season they got relegated to the Championship League (2nd division)
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/goalStats.png?raw=true)  
+### A comparison to the best and worst season in goals to the current one  
+
+The current league it is their second one with most goals scored
+
+            type		Season	      Amount
+      1	Scored	      2007-2008	      71
+      2	Scored	      2023-2024	      60
+
+The current league it is 21 out of 27 below their worst in terms of goals conceded. One of their best so far
+
+
+            type            Season      Amount
+      1	Received      2015-2016	     76
+      22	Received      2023-2024	     42
