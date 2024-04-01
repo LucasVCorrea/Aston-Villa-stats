@@ -53,12 +53,12 @@ The current season it is 21 out of 27 below their worst in terms of goals conced
 
 
 ## Villa favourites to score to
-Chart shows the teams that received most goals agains Aston Villa in total
+Chart shows the teams that received most goals against Aston Villa in total
 
 ![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostGoalsScoredAgainst.png?raw=true)  
 
 ## Villa favourites to conced to
-Chart shows the teams that scored most goals agains Aston Villa in total (all from the Big Six)
+Chart shows the teams that scored most goals against Aston Villa in total (all from the Big Six)
 
 ![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostGoalsReceivedAgainst.png?raw=true)  
 
