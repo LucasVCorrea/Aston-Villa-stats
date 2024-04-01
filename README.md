@@ -30,9 +30,9 @@ Season 2015-2016 was the season they conceded the most goals. It was also the se
 
 The current league it is their second one with most goals scored
 
-            type		Season	      Amount
-      1	Scored	      2007-2008	      71
-      2	Scored	      2023-2024	      60
+            type		Season	      Amount      GoalPerMatch
+      1	Scored	      2007-2008	      71            1.868421
+      2	Scored	      2023-2024	      60            2.068966       (currently playing)
 
 The current league it is 21 out of 27 below their worst in terms of goals conceded. One of their best so far
 
@@ -40,3 +40,5 @@ The current league it is 21 out of 27 below their worst in terms of goals conced
             type            Season      Amount
       1	Received      2015-2016	     76
       22	Received      2023-2024	     42
+
+<img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Everton-Badge-200mm-Wafer.png?raw=true" width="100">
