@@ -40,5 +40,25 @@ The current league it is 21 out of 27 below their worst in terms of goals conced
             type            Season      Amount
       1	Received      2015-2016	     76
       22	Received      2023-2024	     42
+### Most goals scored to playing in Villa Park
+<img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Everton-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/West-Ham-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Newcastle-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/tottenham.png?raw=true" width="100">  
+      
+      (48)          (33)          (32)          (31)
 
-<img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Everton-Badge-200mm-Wafer.png?raw=true" width="100">
+### Most goals scored to playing away
+
+<img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Everton-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/tottenham.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Chelsea-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Liverpool-Badge-200mm-Wafer-Cake.png?raw=true" width="100">  
+
+      (35)          (32)          (28)          (28)  
+
+
+## Villa favourites to score to
+Chart shows the teams that received most goals agains Aston Villa in total
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostGoalsScoredAgainst.png?raw=true)  
+
+## Villa favourites to conced to
+Chart shows the teams that scored most goals agains Aston Villa in total (all from the Big Six)
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostGoalsReceivedAgainst.png?raw=true)
+
