@@ -60,5 +60,29 @@ Chart shows the teams that received most goals agains Aston Villa in total
 ## Villa favourites to conced to
 Chart shows the teams that scored most goals agains Aston Villa in total (all from the Big Six)
 
-![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostGoalsReceivedAgainst.png?raw=true)
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostGoalsReceivedAgainst.png?raw=true)  
+
+## Most home wins agains
+Chart shows the teams which Villa won the most against playing at villa park
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostHomeWinsAgains.png?raw=true)  
+
+## Most home losses against
+Chart shows the teams which Villa lost the most against playing at villa park
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostHomeLostAgainst.png?raw=true)  
+
+## Most away wins
+Chart shows the teams which Villa won the most against playing as visitor
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostAwayWinsAgainst.png?raw=true)  
+
+## Most away losses
+Chart shows the teams which Villa lost the most against playing as visitor
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostAwayLostAgainst.png?raw=true)
+
+
+
+
 
