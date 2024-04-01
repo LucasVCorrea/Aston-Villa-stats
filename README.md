@@ -7,7 +7,7 @@ All data is from Premier League only
 ## Win rate by season
 Chart shows the win rate scores by season since 1993 - 1994 to the current one (2023 - 2024). The current season it´s the highest since Aston Villa is having very good numbers and due to the fact that the season it´s still being played
 
-![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/winRateSeasonVilla.png?raw=true)  
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/winRateSeasonVillaNew.png?raw=true)  
 
       Season          winRate
     2023-2024	58.620690
