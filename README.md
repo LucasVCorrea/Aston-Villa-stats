@@ -28,13 +28,13 @@ Season 2015-2016 was the season they conceded the most goals. It was also the se
 ![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/goalStats.png?raw=true)  
 ### A comparison to the best and worst season in goals to the current one  
 
-The current league it is their second one with most goals scored
+The current season it is their second one with most goals scored
 
             type		Season	      Amount      GoalPerMatch
       1	Scored	      2007-2008	      71            1.868421
       2	Scored	      2023-2024	      60            2.068966       (currently playing)
 
-The current league it is 21 out of 27 below their worst in terms of goals conceded. One of their best so far
+The current season it is 21 out of 27 below their worst in terms of goals conceded. One of their best so far
 
 
             type            Season      Amount
