@@ -40,7 +40,7 @@ The current season it is 21 out of 27 below their worst in terms of goals conced
             type            Season      Amount
       1	Received      2015-2016	     76
       22	Received      2023-2024	     42
-### Most goals scored to playing in Villa Park
+### Most goals scored to playing at Villa Park
 <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Everton-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/West-Ham-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Newcastle-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/tottenham.png?raw=true" width="100">  
       
       (48)          (33)          (32)          (31)
