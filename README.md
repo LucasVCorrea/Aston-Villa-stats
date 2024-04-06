@@ -16,6 +16,12 @@ Chart shows the win rate scores by season since 1993 - 1994 to the current one (
     1996-1997	44.736842
     1997-1998	44.736842
 
+## Premier leagues played  
+Chart shows the teams with most Premier Leagues tournaments played since 1993. Villa shares the 3rd place with West Ham  
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/premsTotal.png?raw=true)  
+
+
 ## Season results since Premier come back
 Chart shows every result since Aston Villa came back to Premier League in 2019-2020. The current season might be their one with the highest wins since the last game it´s not being taken (2 - 0 agains Wolverhampton) villa it´s doing a great campaing and there is still 7 games to go.
 
@@ -80,7 +86,41 @@ Chart shows the teams which Villa won the most against playing as visitor
 ## Most away losses
 Chart shows the teams which Villa lost the most against playing as visitor
 
-![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostAwayLostAgainst.png?raw=true)
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostAwayLostAgainst.png?raw=true)  
+
+# Boxing day 
+Chart shows villa results from the games on Boxing day  
+Played 25 games on Boxing Day. Won only 5 games tied 6 and lost 14. Also scored 30 goals and Conceded 38.
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/descarga.png?raw=true)  
+
+Chart shows the probability of villa´s result each playing at Villa Park and away  
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/boxingDayEach.png?raw=true)  
+
+
+# Derby against Birmingham City  
+
+Villa has played 21 more seasons in premier league.  
+has two goals in favor (17 vs 15)  
+
+
+      FinalResult	
+      played 14 games in total since 1993
+      Lost	4
+      Tied	4
+      Won	6  
+
+      Villa best win
+
+      Season	Date	                  HomeTeam	AwayTeam	FullTimeHomeTeamGoals	FullTimeAwayTeamGoals	HomeTeamShotsOnTarget	FinalResult	VillaGoals	OponentGoals
+      5667	      2007-2008	20/04/08	Aston Villa	Birmingham	5	1	9.0	Won	5	1
+
+      Birmingham best win
+      Season	Date	HomeTeam	AwayTeam	FullTimeHomeTeamGoals	FullTimeAwayTeamGoals	HomeTeamShotsOnTarget	FinalResult	VillaGoals	OponentGoals
+      3477	2002-2003	16/09/02	Birmingham	Aston Villa	3	0	5.0	Lost	0	3
+
+
 
 
 
