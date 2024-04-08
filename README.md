@@ -1,5 +1,5 @@
 # Aston-Villa-stats 📊
-Data analysis about one of England´s most ancient football clubs, Aston Villa. Data is from 93/94 season to the current one.  
+Data analysis about one of England´s most ancient football clubs, Aston Villa. Data is from 93/94 season to the current one (30/03/24).  
 All data is from Premier League only
 
 ![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/villapic.jpg?raw=true)
@@ -100,29 +100,32 @@ Chart shows the probability of villa´s result each playing at Villa Park and aw
 
 
 # Derby against Birmingham City  
+<img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Aston-Villa-Badge-200mm-Wafer.png?raw=true" width="100"> VS <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Birmingham_City_FC_logo.png?raw=true" width="70">
 
-Villa has played 21 more seasons in premier league.  
-has two goals in favor (17 vs 15)  
+Charts shows total results for each team while sharing season (Villa has played 21 more seasons in premier league).  
+  
 
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/villa_birm_wins.png?raw=true)  
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/villa_birm_ties.png?raw=true)  
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/villa_birm_losses.png?raw=true)  
+
+
+## H2H
 
       FinalResult	
       played 14 games in total since 1993
       Lost	4
       Tied	4
       Won	6  
+      2 Goals scored of difference (17 villa vs 15 Birmingham)
 
       Villa best win
+      Season	Date	        HomeTeam	      AwayTeam        HomeTeamGoals	FullTimeAwayTeamGoals	HomeTeamShotsOnTarget	
+      2007-2008	20/04/08	Aston Villa	      Birmingham	      5	            1	                  9.0	                  	
 
-      Season	Date	                  HomeTeam	AwayTeam	FullTimeHomeTeamGoals	FullTimeAwayTeamGoals	HomeTeamShotsOnTarget	FinalResult	VillaGoals	OponentGoals
-      5667	      2007-2008	20/04/08	Aston Villa	Birmingham	5	1	9.0	Won	5	1
-
+      
       Birmingham best win
-      Season	Date	HomeTeam	AwayTeam	FullTimeHomeTeamGoals	FullTimeAwayTeamGoals	HomeTeamShotsOnTarget	FinalResult	VillaGoals	OponentGoals
-      3477	2002-2003	16/09/02	Birmingham	Aston Villa	3	0	5.0	Lost	0	3
-
-
-
-
-
-
-
+      Season	Date	        HomeTeam	      AwayTeam        HomeTeamGoals	FullTimeAwayTeamGoals	HomeTeamShotsOnTarget	
+      2002-2003	16/09/02	 Birmingham	     Aston Villa	      3	            0	                  5.0	      
