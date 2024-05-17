@@ -7,7 +7,7 @@ All data is from Premier League only
 ## Dataset description
 Dataset was taken from kaggle Preimer League (https://www.kaggle.com/datasets/ajaxianazarenka/premier-league?rvi=1) It contains every single premier league game since the 1993 - 1994 season to the current one with some features such as the season, the date the game was played on, both teams with the result, etc. Looks like this:  
 
-![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/data.png?raw=true)  
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/data.png?raw=true)  l
 
 
 ## Win rate by season
