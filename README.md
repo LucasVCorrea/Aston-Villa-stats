@@ -29,8 +29,7 @@ Chart shows the teams with most Premier Leagues tournaments played since 1993. V
 
 
 ## Season results since Premier come back
-Chart shows every result since Aston Villa came back to Premier League in 2019-2020. The current season might be their one with the highest wins since the last game it´s not being taken (2 - 0 agains Wolverhampton) villa it´s doing a great campaing and there is still 7 games to go.
-
+Chart shows every result since Aston Villa came back to Premier League in 2019-2020.  
 ![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/seasonResults.png?raw=true)
 
 ## Goal stats by season
