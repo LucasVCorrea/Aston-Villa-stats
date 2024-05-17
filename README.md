@@ -39,18 +39,18 @@ Season 2015-2016 was the season they conceded the most goals. It was also the se
 ![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/goalStats.png?raw=true)  
 ### A comparison to the best and worst season in goals to the current one  
 
-The current season it is their second one with most goals scored
+The current season it is their first one with most goals scored
 
             type		Season	      Amount      GoalPerMatch
-      1	Scored	      2007-2008	      71            1.868421
-      2	Scored	      2023-2024	      60            2.068966       (currently playing)
+      1	Scored	      2023-2024	      76            2.054054       (currently playing)
+      2	Scored	      2007-2008	      71            1.868421       
 
-The current season it is 21 out of 27 below their worst in terms of goals conceded. One of their best so far
+The current season it is 6th out of 27th below their worst in terms of goals conceded.
 
 
             type            Season      Amount
       1	Received      2015-2016	     76
-      22	Received      2023-2024	     42
+      7	Received      2023-2024	     56
 ### Most goals scored to playing at Villa Park
 <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Everton-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/West-Ham-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/Newcastle-Badge-200mm-Wafer.png?raw=true" width="100"> <img src="https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/tottenham.png?raw=true" width="100">  
       
@@ -92,6 +92,10 @@ Chart shows the teams which Villa won the most against playing as visitor
 Chart shows the teams which Villa lost the most against playing as visitor
 
 ![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/mostAwayLostAgainst.png?raw=true)  
+# Goals against BIG SIX  
+Chart shows goals scored against big six since 2010 until the current day
+
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/golesBigSix.png?raw=true)  
 
 # Boxing day 
 Chart shows villa results from the games on Boxing day  
