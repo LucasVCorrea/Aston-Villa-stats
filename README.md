@@ -1,6 +1,7 @@
 # Aston-Villa-stats 📊
 Data analysis about one of England´s most ancient football clubs, Aston Villa. Data is from 93/94 season to the current one (30/03/24).  
-All data is from Premier League only
+All data is from Premier League only.  
+Historical, Derby, Current season and Boxing day stats are being shown below 🦁 🔵 🔴
 
 ![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/villapic.jpg?raw=true)  
 
