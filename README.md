@@ -7,13 +7,13 @@ All data is from Premier League only
 ## Dataset description
 Dataset was taken from kaggle Preimer League (https://www.kaggle.com/datasets/ajaxianazarenka/premier-league?rvi=1) It contains every single premier league game since the 1993 - 1994 season to the current one with some features such as the season, the date the game was played on, both teams with the result, etc. Looks like this:  
 
-![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/data.png?raw=true)  l
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/data.png?raw=true) 
 
 
 ## Win rate by season
 Chart shows the win rate scores by season since 1993 - 1994 to the current one (2023 - 2024). The current season it´s the highest since Aston Villa is having very good numbers and due to the fact that the season it´s still being played
 
-![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/winRateSeasonVillaNew.png?raw=true)  
+![Image Alt text](https://github.com/LucasVCorrea/Aston-Villa-stats/blob/main/imagenes/seasonResults.png?raw=true)  
 
       Season          winRate
     2023-2024	58.620690
